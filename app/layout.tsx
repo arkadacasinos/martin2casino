@@ -25,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${serif.variable} ${sans.variable}`}>
       <head>
+        <meta name="yandex-verification" content="3c40b1dffec2965f" />
         <title>
           Martin Casino официальный сайт — играть онлайн и рабочее зеркало |
           Мартин Казино
